@@ -37,5 +37,5 @@
    - = 0.166309524 mm /s
 
 
-48.) An Electron has a mass of $9.11 \times 10^{-31}$ kg
+48.) An Electron has a mass of $9.11 \times 10^{-31} \mathrm{kg}$
 						
