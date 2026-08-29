@@ -43,7 +43,7 @@ $$
 \begin{aligned}
 \frac{1.67 \times 10^{-27} \mathrm{kg}}{9.11 \times 10^{-31} \mathrm{kg}} \\
 \frac{1.67 \times 10 \mathrm{kg}}{9.11 \times 10^{-4} \mathrm{kg}} \\
-\frac{1.67}{9.11} \times \frac{10^{-27}}{10^{-31}} \\
+\left( \frac{1.67}{9.11} \times \frac{10^{-27}}{10^{-31}} \right) \\
 \frac{1.67 \times 10^4 \mathrm{kg}}{9.11 \times 10 \mathrm{kg}}
 \end{aligned}
 $$
