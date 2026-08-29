@@ -16,15 +16,15 @@
  - remember to square when converting to/from squared units
 
 ### Solving problems in physics 
-- determine which physical principles are invlolved
+- determine which physical principles are involved
 - draw a sketch
 - list known. may be in problem or assumed or constants
 - list unknowns. this includes to answer and intermediate answers
-- find equations involving the phsyical principles, knowns and unknowns.
+- find equations involving the physical principles, knowns and unknowns.
 - do the math
 - check the units
 - is it reasonable?
-- Does it conclude somethings interesting?
+- Does it conclude something interesting?
  
 ### Homework
 - What is the height in meters of a person who is 6 ft, 1.0 in. tall?
