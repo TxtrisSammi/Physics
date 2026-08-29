@@ -40,11 +40,11 @@
 48.) An electron has a mass of $9.11 \times 10^{-31} \mathrm{kg}$ A proton has a mass of $1.67 \times 10^{-27} \mathrm{kg}$ What is the mass of a proton in electron-masses?
 
 $$
-\begin{aligned}
+\begin{gather}
 \frac{1.67 \times 10^{-27} \mathrm{kg}}{9.11 \times 10^{-31} \mathrm{kg}} \\
 \frac{1.67 \times 10 \mathrm{kg}}{9.11 \times 10^{-4} \mathrm{kg}} \\
 \left( \frac{1.67}{9.11} \right) \times \left( \frac{10^{-27}}{10^{-31}} \right) \\
 \frac{1.67 \times 10^4 \mathrm{kg}}{9.11 \times 10 \mathrm{kg}}
-\end{aligned}
+\end{gather}
 $$
 
