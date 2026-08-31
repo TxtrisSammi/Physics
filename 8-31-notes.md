@@ -3,6 +3,7 @@
 ## Multiplication of Vectors: The Dot Product
 
 - The scalar product of $\vec{A} \dot \vec{B}$ of two vectors $\vec{A} \vec{B}$ is a number defined by the equation 
+
 $$
 \vec{A} \dot \vec{B} = AB \cos \phi
 $$
