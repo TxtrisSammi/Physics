@@ -47,11 +47,11 @@ $$
 
 For the vectors given in the follwing figure, use a graphical method to find the following resultants:
 
-(a) \vec{A} + \vec{B} = $(37.6 \deg, 14.7)
+(a) \vec{A} + \vec{B} = $(37.6 °, 14.7)
 
 (b) \vec{C} + \vec{B}
 
-(c) \vec{D} + \vec{F} = $(3.6 \deg$ above -x axis, $32.35)$
+(c) \vec{D} + \vec{F} = $(3.6 °$ above -x axis, $32.35)$
 
 (d) \vec{A} - \vec{B}
 (e) \vec{D} - \vec{F}
@@ -65,11 +65,11 @@ $A=20m; B=6m$ what are the largest and the smallest values of the magnitude of $
 
 ### 50
 
-A small plane flies 40.0 km in a direction $60 \deg$ north of east and then flies 30.0 km in a direction $15 \deg$ north of east. Use the analytical method to find the total distance the plance covers from the starting point, and the geographic direction of its displacement vector. What is its displacement vector?
+A small plane flies 40.0 km in a direction $60 °$ north of east and then flies 30.0 km in a direction $15 °$ north of east. Use the analytical method to find the total distance the plance covers from the starting point, and the geographic direction of its displacement vector. What is its displacement vector?
 
 ### 60 
 
-A barge is pulled by the two tugboats shown in the following figure. ONe tugboat pulls on the barge with a force of magnitude 4000 units of force at $15 \deg$ above the line AB (see the figure) and the other tugboat pulls on the barge with a force of magnitude 5000 units of force at $12 \deg$ below the line AB. Resolve the pulling forces to their scalar components of the resultant force pulling on the barge. What is the magnitude of the resultant pull? What is its direction relative to the line AB?
+A barge is pulled by the two tugboats shown in the following figure. ONe tugboat pulls on the barge with a force of magnitude 4000 units of force at $15 °$ above the line AB (see the figure) and the other tugboat pulls on the barge with a force of magnitude 5000 units of force at $12 °$ below the line AB. Resolve the pulling forces to their scalar components of the resultant force pulling on the barge. What is the magnitude of the resultant pull? What is its direction relative to the line AB?
 
 ### 68
 
