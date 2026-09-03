@@ -51,7 +51,7 @@ For the vectors given in the follwing figure, use a graphical method to find the
 
 (b) $\vec{C} + \vec{B}$
 
-(c) $\vec{D} + \vec{F} = (3.6° \textt{above -x axis}, 32.35)$
+(c) $\vec{D} + \vec{F} = (3.6° \text{above -x axis}, 32.35)$
 
 (d) $\vec{A} - \vec{B}$
 (e) $\vec{D} - \vec{F}$
