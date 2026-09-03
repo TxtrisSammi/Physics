@@ -47,17 +47,17 @@ $$
 
 For the vectors given in the follwing figure, use a graphical method to find the following resultants:
 
-(a) \vec{A} + \vec{B} = $(37.6 °, 14.7)
+(a) $\vec{A} + \vec{B} = $(37.6 °, 14.7)$
 
-(b) \vec{C} + \vec{B}
+(b) $\vec{C} + \vec{B}$
 
-(c) \vec{D} + \vec{F} = $(3.6 °$ above -x axis, $32.35)$
+(c) $\vec{D} + \vec{F} = $(3.6 °$ above -x axis, $32.35)$$
 
-(d) \vec{A} - \vec{B}
-(e) \vec{D} - \vec{F}
-(f) \vec{A} + \vec{2F}
-(g) \vec{C} - \vec{2D} + \vec{3F}
-(h) \vec{A} - \vec{4D} + \vec{2F}
+(d) $\vec{A} - \vec{B}$
+(e) $\vec{D} - \vec{F}$
+(f) $\vec{A} + \vec{2F}$
+(g) $\vec{C} - \vec{2D} + \vec{3F}$
+(h) $\vec{A} - \vec{4D} + \vec{2F}$
 
 ### 36
 
