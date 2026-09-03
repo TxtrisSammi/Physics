@@ -47,7 +47,7 @@ $$
 
 For the vectors given in the follwing figure, use a graphical method to find the following resultants:
 
-(a) $\vec{A} + \vec{B} = $(37.6 °, 14.7)$
+(a) $\vec{A} + \vec{B} = (37.6°, 14.7)$
 
 (b) $\vec{C} + \vec{B}$
 
